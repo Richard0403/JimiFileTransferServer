@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/transfer/control/TransferManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/control/TransferUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/main_package/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/net/ReceiveThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/net/SendThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/net/ServerThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/net/TransferBase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/net/TransferSocket.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/scan/SearchEndOper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/scan/SearchTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/view/MainFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/view/ReceiveDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/view/SendDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/view/SettingDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/transfer/view/TransferDialog.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
